@@ -1,3 +1,3 @@
 # Image To Speech
 
-Input an Image -> Extracts text from the Image -> outputs the text as speech
+Input an Image -> Extracts text from the Image -> Outputs the Text as Speech
